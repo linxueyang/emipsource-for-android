@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_left.xml",
+        "source": "E:\\EMIP\\cordova\\platforms\\android\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\anim\\image_pop_in.xml",
+        "source": "E:\\EMIP\\cordova\\platforms\\android\\res\\anim\\image_pop_in.xml"
+    },
+    {
+        "merged": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_right.xml",
+        "source": "E:\\EMIP\\cordova\\platforms\\android\\res\\anim\\slide_in_right.xml"
+    }
+]

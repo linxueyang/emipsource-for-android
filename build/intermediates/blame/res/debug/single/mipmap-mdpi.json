@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon1.png",
+        "source": "E:\\EMIP\\cordova\\platforms\\android\\res\\mipmap-mdpi\\icon1.png"
+    },
+    {
+        "merged": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon.png",
+        "source": "E:\\EMIP\\cordova\\platforms\\android\\res\\mipmap-mdpi\\icon.png"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\menu\\encode.xml",
+        "source": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\exploded-aar\\barcodescanner\\res\\menu\\encode.xml"
+    },
+    {
+        "merged": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\menu\\capture.xml",
+        "source": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\exploded-aar\\barcodescanner\\res\\menu\\capture.xml"
+    },
+    {
+        "merged": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\menu\\history.xml",
+        "source": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\exploded-aar\\barcodescanner\\res\\menu\\history.xml"
+    }
+]

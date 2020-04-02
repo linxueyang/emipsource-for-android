@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_torch.png",
+        "source": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\exploded-aar\\barcodescanner\\res\\drawable\\toggle_torch.png"
+    },
+    {
+        "merged": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\jpush_richpush_btn_selector.xml",
+        "source": "E:\\EMIP\\cordova\\platforms\\android\\res\\drawable\\jpush_richpush_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\share_via_barcode.png",
+        "source": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\exploded-aar\\barcodescanner\\res\\drawable\\share_via_barcode.png"
+    },
+    {
+        "merged": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\launcher_icon.png",
+        "source": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\exploded-aar\\barcodescanner\\res\\drawable\\launcher_icon.png"
+    },
+    {
+        "merged": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\flip_camera.png",
+        "source": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\exploded-aar\\barcodescanner\\res\\drawable\\flip_camera.png"
+    },
+    {
+        "merged": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.0.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\retry_btn_selector.xml",
+        "source": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\exploded-aar\\openDefault-2.0.3\\res\\drawable\\retry_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\grid_background.xml",
+        "source": "E:\\EMIP\\cordova\\platforms\\android\\res\\drawable\\grid_background.xml"
+    },
+    {
+        "merged": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.0.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\retry_btn_default.xml",
+        "source": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\exploded-aar\\openDefault-2.0.3\\res\\drawable\\retry_btn_default.xml"
+    },
+    {
+        "merged": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\retry_btn_press.xml",
+        "source": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\exploded-aar\\openDefault-2.0.3\\res\\drawable\\retry_btn_press.xml"
+    },
+    {
+        "merged": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.0.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\jpush_richpush_progressbar.xml",
+        "source": "E:\\EMIP\\cordova\\platforms\\android\\res\\drawable\\jpush_richpush_progressbar.xml"
+    },
+    {
+        "merged": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\weibosdk_common_shadow_top.9.png",
+        "source": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\exploded-aar\\openDefault-2.0.3\\res\\drawable\\weibosdk_common_shadow_top.9.png"
+    },
+    {
+        "merged": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.0.0\\res\\drawable\\notification_tile_bg.xml"
+    }
+]

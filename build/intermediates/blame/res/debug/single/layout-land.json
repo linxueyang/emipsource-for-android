@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\layout-land\\share.xml",
+        "source": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\exploded-aar\\barcodescanner\\res\\layout-land\\share.xml"
+    },
+    {
+        "merged": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\layout-land\\encode.xml",
+        "source": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\exploded-aar\\barcodescanner\\res\\layout-land\\encode.xml"
+    }
+]

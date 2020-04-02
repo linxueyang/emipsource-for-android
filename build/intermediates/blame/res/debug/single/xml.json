@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\xml\\config.xml",
+        "source": "E:\\EMIP\\cordova\\platforms\\android\\res\\xml\\config.xml"
+    },
+    {
+        "merged": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\xml\\opener_paths.xml",
+        "source": "E:\\EMIP\\cordova\\platforms\\android\\res\\xml\\opener_paths.xml"
+    },
+    {
+        "merged": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\xml\\provider_paths.xml",
+        "source": "E:\\EMIP\\cordova\\platforms\\android\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "E:\\EMIP\\cordova\\platforms\\android\\build\\intermediates\\exploded-aar\\barcodescanner\\res\\xml\\preferences.xml"
+    }
+]

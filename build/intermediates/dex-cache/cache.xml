@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\EMIP\cordova\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.0"
+        sha1="e6970f0554f9508c041f1f6960af15cc888c9f35">
+        <dex dex="E:\EMIP\cordova\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-9.0.2_adb0f818b10235d37e3230dc63df2dd8f3f37362.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EMIP\cordova\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.0"
+        sha1="f7b86f1beb2b3625c6a1a5da6b5fc5294b64aea9">
+        <dex dex="E:\EMIP\cordova\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0_5823bbc0fdf4bb1e3d410a5399f36a8c5251ef67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EMIP\cordova\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.0"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="E:\EMIP\cordova\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.0.2_183d16b87aacf760ddc1e90efc38eef8c71ef232.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EMIP\cordova\platforms\android\libs\jcore-android_v1.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.0"
+        sha1="e872ea5454bca71af461e037dd07c4ca9e73dcf4">
+        <dex dex="E:\EMIP\cordova\platforms\android\build\intermediates\pre-dexed\debug\jcore-android_v1.1.3_591a5c446b1eaf9bf6cd339a01de4eae82e5a671.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EMIP\cordova\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\EMIP\cordova\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0_52eb2564461d00f08912876d06e0de10134a9ecf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EMIP\cordova\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v13\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.0"
+        sha1="2bf893856577f5038c0b8007a43fda3b3c5beb23">
+        <dex dex="E:\EMIP\cordova\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-support-v13-23.4.0_fc440c6e08b154376f210c36635948d461e5cc25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EMIP\cordova\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.0"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="E:\EMIP\cordova\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.0.2_7261de72ef928c939bf181b60c3fbbdd5920aea0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EMIP\cordova\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.0"
+        sha1="cbb26a4f659b17abc1f75ff735a607aa299697ac">
+        <dex dex="E:\EMIP\cordova\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0_188a7e210fc84933b755329c4c4fef7cc18967ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EMIP\cordova\platforms\android\build\intermediates\exploded-aar\openDefault-2.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.0"
+        sha1="52787000ee721c54f2a2f08c166e8f787b6d1548">
+        <dex dex="E:\EMIP\cordova\platforms\android\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-openDefault-2.0.3_b215ffb03194973010860694b8783457e9067f56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EMIP\cordova\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.0"
+        sha1="b102f892442929c3457de1ef6a94f5dda3dd8864">
+        <dex dex="E:\EMIP\cordova\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0_23dc2a05987682c1e55e0ed268db1622367be079.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EMIP\cordova\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.0"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="E:\EMIP\cordova\platforms\android\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.0.2_5b99c646b63e2fe0bdfdd4c78ecf980b7cd58dc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EMIP\cordova\platforms\android\libs\open_sdk_r5788.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.0"
+        sha1="42737221106a9dce1e61ab5ed13d81503ead6bfc">
+        <dex dex="E:\EMIP\cordova\platforms\android\build\intermediates\pre-dexed\debug\open_sdk_r5788_3f18ee44773b1d540ca7670fe943639bf066db62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EMIP\cordova\platforms\android\build\intermediates\exploded-aar\barcodescanner\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.0"
+        sha1="7c37db119e266ef17f7c29ad7afe4dfdcecacc16">
+        <dex dex="E:\EMIP\cordova\platforms\android\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-barcodescanner_06f0d94851fb863560308e467bcb8f79ce619f7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EMIP\cordova\platforms\android\build\intermediates\exploded-aar\com.github.ergovia-mobile\android-transcoder\v0.1.10R_ergovia\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.0"
+        sha1="9e04f6b79bf9a8b3c1d2d6585d8353427330e0db">
+        <dex dex="E:\EMIP\cordova\platforms\android\build\intermediates\pre-dexed\debug\com.github.ergovia-mobile-android-transcoder-v0.1.10R_ergovia_4f9682c0e552bd2dfc03094b3eca7b6aae4d47c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EMIP\cordova\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.0"
+        sha1="8602ab07133e6ee182726fa27588420dba9d6d55">
+        <dex dex="E:\EMIP\cordova\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0_e3ea52edce97ba69e78650efbabd538aaf41ee30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EMIP\cordova\platforms\android\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.0"
+        sha1="b346a5d3fc5d6d1d36c6262c8cc865b76df9f40c">
+        <dex dex="E:\EMIP\cordova\platforms\android\build\intermediates\pre-dexed\debug\me.leolin-ShortcutBadger-1.1.4_57c809c7847d50d3c8d2f2ab76d9a235431e86b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EMIP\cordova\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.0"
+        sha1="1a94a06ec585c9423a3c03bde1f7bf9268f83d66">
+        <dex dex="E:\EMIP\cordova\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0_e1fa177547c1740cd8d1f8bb7678e8dbb5f5fe3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EMIP\cordova\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\debug\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.0"
+        sha1="0b2992190da6eb6dac93c32ab9a3cc47d5ce3f57">
+        <dex dex="E:\EMIP\cordova\platforms\android\build\intermediates\pre-dexed\debug\CordovaLib-unspecified-debug_075b2c4cf316848ed192756590208dec83f04ce5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EMIP\cordova\platforms\android\libs\libammsdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.0"
+        sha1="11b09244aedaa51bfd09269637be7c32c60da314">
+        <dex dex="E:\EMIP\cordova\platforms\android\build\intermediates\pre-dexed\debug\libammsdk_a9002bae1bc744a6dcd82df9b986f09e719580d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EMIP\cordova\platforms\android\libs\mta-sdk-1.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.0"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="E:\EMIP\cordova\platforms\android\build\intermediates\pre-dexed\debug\mta-sdk-1.6.2_d167a6d0bbce9e1bfa0a74f58fcb63b419575476.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lin\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.0.0\db09a97f4f0db8892c1a0111a4b966f97920d082\support-annotations-26.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.0"
+        sha1="db09a97f4f0db8892c1a0111a4b966f97920d082">
+        <dex dex="E:\EMIP\cordova\platforms\android\build\intermediates\pre-dexed\debug\support-annotations-26.0.0_40630beb419df81c2b1625d75781e34ba7e304f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EMIP\cordova\platforms\android\libs\jpush-android_v3.0.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.0"
+        sha1="cc50cc7009c634f3222609dae2d60d5ad888015a">
+        <dex dex="E:\EMIP\cordova\platforms\android\build\intermediates\pre-dexed\debug\jpush-android_v3.0.6_c1d0735bc4bc79289419b2e412e1fc6f32156122.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EMIP\cordova\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.0"
+        sha1="cf16220db9128d91a215aedc739584181d5ca6a4">
+        <dex dex="E:\EMIP\cordova\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-9.0.2_6f89bd1b1906bfc397147be5d8fc2762a24311c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EMIP\cordova\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.0"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="E:\EMIP\cordova\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.0.2_e6e55d6cf018e5aeac6e8f70cf19f7f6efb7ac81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EMIP\cordova\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v13\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.0"
+        sha1="be09545b7e6ff322c7286d2e80bed3b75b76c529">
+        <dex dex="E:\EMIP\cordova\platforms\android\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_0425f82db20642cd8bb2c66d280ce79fc094ccf2.jar" />
+    </item>
+
+</items>
