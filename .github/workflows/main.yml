@@ -10,7 +10,7 @@ jobs:
      
       - name: Run Unit tests
         run: |
-             gradle wrapper --gradle-version 2.4.1 
+             gradle wrapper
              gradlew -v
          
             
