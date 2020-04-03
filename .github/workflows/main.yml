@@ -7,10 +7,8 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-     
+    
       - name: Run Unit tests
-        run: curl -s "https://get.sdkman.io" | bash
-             source "$HOME/.sdkman/bin/sdkman-init.sh"
-             sdk version
-             sdk install gradle 2.14.1
-             gradle -v
+        run: |
+             gradlew -v
+            
