@@ -10,5 +10,6 @@ jobs:
     
       - name: Run Unit tests
         run: |
+             git update-index --chmod=+x gradlew
              gradlew -v
             
